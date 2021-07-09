@@ -5,10 +5,9 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Fron-End Eğitiminde oluşturduğumuz ilk r
 ## Installation 
 Öncelikle projeyi clonelayın. [Repo linki için tıklayın](https://github.com/hakandrsn/kodluyoruzilkrepo.git)
 
-'''
+```
 https://github.com/hakandrsn/kodluyoruzilkrepo.git
-
-'''
+```
 
 ## Usage
 
@@ -16,11 +15,11 @@ Projeyi cloneladıktan sonra Visual Studio Code programından açınız
 
 Linuz için
 
-'''
+```
 cd kodluyoruzilkrepo
 code .
+```
 
-'''
 
 ## Contributing
 
