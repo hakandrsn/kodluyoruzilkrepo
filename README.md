@@ -7,9 +7,11 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Fron-End Eğitiminde oluşturduğumuz ilk r
 
 '''
 https://github.com/hakandrsn/kodluyoruzilkrepo.git
+
 '''
 
-#Usage
+## Usage
+
 Projeyi cloneladıktan sonra Visual Studio Code programından açınız
 
 Linuz için
@@ -17,11 +19,13 @@ Linuz için
 '''
 cd kodluyoruzilkrepo
 code .
+
 '''
 
-#Contributing
+## Contributing
+
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
-# License
+## License
 
 [MIT](https://github.com/hakandrsn/kodluyoruzilkrepo/blob/main/LICENSE)
